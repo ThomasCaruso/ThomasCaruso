@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/thomas-caruso-banner.svg" alt="Thomas Caruso — building at the intersection of AI, software, and finance" width="100%" />
+  <img src="./assets/thomas-caruso-banner.png" alt="Thomas Caruso — building at the intersection of AI, software, and finance" width="100%" />
 </p>
 
 I build products and research systems at the intersection of **AI, software, and finance**. I study Finance at Fairfield University while shipping consumer products, research infrastructure, and AI-driven backend systems.
